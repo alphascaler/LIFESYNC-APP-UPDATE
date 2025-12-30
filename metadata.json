@@ -1,0 +1,7 @@
+{
+  "name": "LifeSync",
+  "description": "A high-performance life management system that tracks habits, tasks, and reflections with deep insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
